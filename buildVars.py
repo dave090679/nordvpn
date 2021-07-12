@@ -11,22 +11,22 @@ addon_info = {
 	# for previously unpublished addons, please follow the community guidelines at:
 	# https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt
 	# add-on Name, internal for nvda
-	"addon_name" : "flixgrab",
+	"addon_name" : "nordvpn",
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on to be shown on installation and add-on information.
-	"addon_summary" : _("flixgrab"),
+	"addon_summary" : _("nordvpn"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description" : _("""Diese Erweiterung verbessert die Zugaenglichkeit von Flicgrab durch Beschriften vieler Elemente."""),
+	"addon_description" : _("""Diese Erweiterung verbessert die Zugaenglichkeit von nordvpn durch Beschriften vieler Elemente."""),
 	# version
-	"addon_version" : "0.3",
+	"addon_version" : "0.5",
 	# Author(s)
 	"addon_author" : u"David Parduhn <xkill85@gmx.net>",
 	# URL for the add-on documentation support
 	"addon_url" : None,
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
-	"lastTestedNVDAVersion" : "2019.3.0",
+	"lastTestedNVDAVersion" : "2021.1",
 }
 
 

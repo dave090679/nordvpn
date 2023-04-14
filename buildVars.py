@@ -19,14 +19,14 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Diese Erweiterung verbessert die Zugaenglichkeit von nordvpn durch Beschriften vieler Elemente."""),
 	# version
-	"addon_version" : "0.6",
+	"addon_version" : "0.7",
 	# Author(s)
 	"addon_author" : u"David Parduhn <xkill85@gmx.net>",
 	# URL for the add-on documentation support
 	"addon_url" : None,
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
-	"lastTestedNVDAVersion" : "2022.1",
+	"lastTestedNVDAVersion" : "2023.1",
 }
 
 
